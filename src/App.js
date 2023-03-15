@@ -16,6 +16,8 @@ const app = new Clarifai.App({
  apiKey: 'e204075161b64f7185b6449be64817db'
 });
 
+
+
 // No Longer need this. Updated to particles-bg
 // const particlesOptions = {
 //   particles: {
